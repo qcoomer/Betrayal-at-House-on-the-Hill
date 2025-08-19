@@ -1,0 +1,69 @@
+Items
+-blueprint
+-boomstick
+-camcorder
+-ceremonial robe
+-chainsaw
+-chalk
+-device
+-effigy
+-locket
+-snake oil
+-teapot
+
+Omen
+-bloodstone
+-box
+-cat
+-key
+-letter
+-photograph
+-rope
+-vial
+
+Event
+-acupuncture
+-burial mound
+-contract
+-flytrap
+-ghost in the machine
+-lightning strike
+-misty arch
+-mutant housepet
+-the left hand
+-the walls have eyes
+-what year is it?!
+
+Rooms
+-arsenal
+-bathroom
+-cave
+-drawing room
+-dungeon
+-laundry
+-locked room
+-menagerie
+-nursery
+-panic room
+-roof landing
+-rookery
+-sewing room
+-solarium
+-spiral staircase
+-storm cellar
+-study
+-theater
+-tree house
+-widows walk
+
+Tokens
+-plant (1-6)
+-obstacle (1-24)
+-lock (1-4)
+-fountain
+-burial mound
+-6 double sided character tokens of each color
+-cat
+-doctor
+-head
+-pirate queen
